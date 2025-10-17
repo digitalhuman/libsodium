@@ -34,3 +34,7 @@ export default function SodiumDemo() {
   return <pre>libsodium (single-file): {ok}</pre>;
 }
 ```
+
+## What is libsodium?
+
+More info here [More info](https://doc.libsodium.org/)
